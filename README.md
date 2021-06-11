@@ -45,3 +45,26 @@ what could my game be about?
   enemies without killing yourself.
     - Is this mathematically possible though? I feel like this is going to
       become a counting game in the end and this may not feel fun.
+
+After one hour thinking about it, I think I will go with the following concept:
+
+- The goal of the game is to get all boxes tied together
+- Boxes always move to the same direction
+- Yellow boxes get glued, blue boxes don't
+
+Given that, I believe these are the main tasks:
+
+- [x] Implement basic game
+- [ ] Start creating puzzles
+- [ ] Design game identity
+- [ ] Implement quality of life features once puzzles are complete
+- [ ] Make it pop!
+
+When it comes to the basic implementation, I believe these should be the next
+steps:
+
+- [ ] Draw sample board
+- [ ] Create data structure for sample level
+- [ ] Implement movement for blue boxes
+- [ ] Implement movement for yellow boxes
+- [ ] Identify when level is complete
