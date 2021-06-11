@@ -30,6 +30,12 @@ Board:
     - `b`: **b**ox
     - `nil`: nothing here, move as wanted
 
+Event:
+
+- `t`: how many tics are remaining
+- `p`: what is the next level to be triggered
+- Events are currently used only to trigger next levels, so they should always return
+
 # DevLog
 
 The theme was just announced, which means it's time to get working! So,
