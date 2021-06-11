@@ -23,6 +23,13 @@ Box:
 - `px`: physical x position
 - `py`: physical y position
 
+Board:
+
+- Matrix `HEIGHT * WIDTH` with possible values:
+    - `w`: **w**all A.K.A. solid block
+    - `b`: **b**ox
+    - `nil`: nothing here, move as wanted
+
 # DevLog
 
 The theme was just announced, which means it's time to get working! So,
