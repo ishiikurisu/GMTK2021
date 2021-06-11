@@ -11,6 +11,18 @@ About this jam:
 
 This is a [TIC80 game](http://tic80.com/).
 
+# Development
+
+## Data Structures
+
+Box:
+
+- `c`: box color
+- `x`: target x position
+- `y`: target y position
+- `px`: physical x position
+- `py`: physical y position
+
 # DevLog
 
 The theme was just announced, which means it's time to get working! So,
@@ -64,7 +76,7 @@ When it comes to the basic implementation, I believe these should be the next
 steps:
 
 - [x] Draw sample board
-- [ ] Create data structure for sample level
+- [x] Create data structure for sample level
 - [ ] Implement movement for blue boxes
 - [ ] Implement movement for yellow boxes
 - [ ] Identify when level is complete
