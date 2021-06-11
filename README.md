@@ -84,6 +84,6 @@ steps:
 
 - [x] Draw sample board
 - [x] Create data structure for sample level
-- [ ] Implement movement for blue boxes
+- [x] Implement movement for blue boxes
 - [ ] Implement movement for yellow boxes
 - [ ] Identify when level is complete
