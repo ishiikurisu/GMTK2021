@@ -63,7 +63,7 @@ Given that, I believe these are the main tasks:
 When it comes to the basic implementation, I believe these should be the next
 steps:
 
-- [ ] Draw sample board
+- [x] Draw sample board
 - [ ] Create data structure for sample level
 - [ ] Implement movement for blue boxes
 - [ ] Implement movement for yellow boxes
