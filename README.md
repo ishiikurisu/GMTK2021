@@ -81,8 +81,8 @@ Given that, I believe these are the main tasks:
 
 - [x] Implement basic game
 - [ ] Start creating puzzles
-- [ ] Design game identity
-- [ ] Implement quality of life features once puzzles are complete
+- [x] Design game identity
+- [x] Implement quality of life features once puzzles are complete
 - [ ] Make it pop!
 
 When it comes to the basic implementation, I believe these should be the next
@@ -91,5 +91,35 @@ steps:
 - [x] Draw sample board
 - [x] Create data structure for sample level
 - [x] Implement movement for blue boxes
-- [ ] Implement movement for yellow boxes
-- [ ] Identify when level is complete
+- [x] ~~Implement movement for yellow boxes~~
+- [x] Identify when level is complete
+
+Now, I think I will give the game an identity and quality of life. I know when
+these are going to end, but I don't know how much time I will take to
+create enough puzzles to make this worth something. Let's see what
+I can do now...
+
+First, I could pick a better theme than boxes and walls. What could it be?
+
+- Grouping sheep
+- Organizing inventory
+- What else?
+
+I think I will go with sheep anyways. This should be cute enough and I can
+include sheep in Honey the Cat eventually. So, the tasks should be:
+
+- [ ] Draw sheep sprite
+- [ ] Replace walls with fence
+- [ ] Draw grass patches everywhere
+- [ ] Implement main menu
+- [ ] Implement game credits
+
+Some ideas after this sprint:
+
+- There could be a shepherd telling the sheep where to go depending on the
+  player's input.
+- There could be a phrase in the bottom of the screen with tips and whatnot
+  about the level.
+- The level look-and-feel could change over time to indicate progression.
+- There could be a clock indicating how much time has passed since the
+  first input. This would be nice for speedruns.
