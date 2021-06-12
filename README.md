@@ -152,5 +152,14 @@ Said that, I believe the next tasks should be:
 
 I guess it's time for the hardest part now: let's make puzzles...
 
-- [ ] Create puzzles for at least 15 minutes of gameplay
-- [ ] Playtest game
+- [x] Create puzzles for at least 15 minutes of gameplay
+- [x] Playtest game
+
+Some feedback after playtesting:
+
+- [ ] Add more levels
+- [ ] Include blocks that move but don't count towards the objective
+- [ ] Make more art
+- [ ] Play background music during levels
+- [ ] Break more expectations (that's my idea actually)
+- [ ] Consider generating random levels
