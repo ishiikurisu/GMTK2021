@@ -83,7 +83,7 @@ Given that, I believe these are the main tasks:
 - [ ] Start creating puzzles
 - [x] Design game identity
 - [x] Implement quality of life features once puzzles are complete
-- [ ] Make it pop!
+- [x] Make it pop!
 
 When it comes to the basic implementation, I believe these should be the next
 steps:
@@ -123,3 +123,27 @@ Some ideas after this sprint:
 - The level look-and-feel could change over time to indicate progression.
 - There could be a clock indicating how much time has passed since the
   first input. This would be nice for speedruns.
+
+Now, let's make this game pop! After that, I should spend the rest of time
+creating as many puzzles as possible.
+
+Regarding visual identity, I will go with this kinda bad joke... The game will
+be about Teresa the Shepherd, the owner of many sheep, including Dolly, Rosita,
+Pietro, and many more. We might even have Honey the Cat somewhere!
+
+Mechanically wise, the idea is that the player is not controlling the sheep.
+They should feel like they are Teresa, the one who is actually controlling the
+sheep.
+
+Said that, I believe the next tasks should be:
+
+- [ ] Draw more sheep
+- [ ] Draw and animate Teresa
+- [ ] Draw more tiles to indicate progression
+- [ ] Add sound effects:
+  - [ ] Baaing
+  - [ ] Bells
+  - [ ] Whistling
+  - [ ] "Level complete" jingle
+  - [ ] Credits theme
+  - [ ] Main menu theme
