@@ -141,10 +141,10 @@ Said that, I believe the next tasks should be:
 - [x] Draw and animate Teresa
 - [x] Draw more tiles to indicate progression
 - [ ] Add sound effects:
-  - [ ] Baaing
-  - [ ] Bells
-  - [ ] Whistling
-  - [ ] "Level complete" jingle
+  - [x] Baaing
+  - [x] Bells
+  - [x] Whistling
+  - [x] "Level complete" jingle
   - [ ] Credits theme
   - [ ] Main menu theme
 - [x] Clock speed run 
