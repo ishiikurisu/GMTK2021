@@ -147,3 +147,4 @@ Said that, I believe the next tasks should be:
   - [ ] "Level complete" jingle
   - [ ] Credits theme
   - [ ] Main menu theme
+- [x] Clock speed run 
