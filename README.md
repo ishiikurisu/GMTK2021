@@ -108,11 +108,11 @@ First, I could pick a better theme than boxes and walls. What could it be?
 I think I will go with sheep anyways. This should be cute enough and I can
 include sheep in Honey the Cat eventually. So, the tasks should be:
 
-- [ ] Draw sheep sprite
-- [ ] Replace walls with fence
-- [ ] Draw grass patches everywhere
-- [ ] Implement main menu
-- [ ] Implement game credits
+- [x] Draw sheep sprite
+- [x] Replace walls with fence
+- [x] Draw grass patches everywhere
+- [x] Implement main menu
+- [x] Implement game credits
 
 Some ideas after this sprint:
 
