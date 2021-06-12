@@ -80,7 +80,7 @@ After one hour thinking about it, I think I will go with the following concept:
 Given that, I believe these are the main tasks:
 
 - [x] Implement basic game
-- [ ] Start creating puzzles
+- [x] Start creating puzzles
 - [x] Design game identity
 - [x] Implement quality of life features once puzzles are complete
 - [x] Make it pop!
@@ -147,5 +147,10 @@ Said that, I believe the next tasks should be:
   - [x] "Level complete" jingle
   - [x] Credits theme
   - [x] Main menu theme
-- [x] Clock speed run 
+- [x] Clock speed run
 - [x] Write tip text for level
+
+I guess it's time for the hardest part now: let's make puzzles...
+
+- [ ] Create puzzles for at least 15 minutes of gameplay
+- [ ] Playtest game
