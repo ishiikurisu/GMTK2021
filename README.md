@@ -137,9 +137,9 @@ sheep.
 
 Said that, I believe the next tasks should be:
 
-- [ ] Draw more sheep
+- [x] Draw more sheep
 - [ ] Draw and animate Teresa
-- [ ] Draw more tiles to indicate progression
+- [x] Draw more tiles to indicate progression
 - [ ] Add sound effects:
   - [ ] Baaing
   - [ ] Bells
